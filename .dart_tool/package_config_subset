@@ -1,7 +1,7 @@
 aulaflutter
 2.12
-file:///M:/Projetos/Faculdade/aulaflutter/
-file:///M:/Projetos/Faculdade/aulaflutter/lib/
+file:///M:/Projetos/Faculdade/aulaflutter/UniClima/
+file:///M:/Projetos/Faculdade/aulaflutter/UniClima/lib/
 async
 2.12
 file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.1/
@@ -42,6 +42,14 @@ flutter_lints
 2.12
 file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4/
 file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4/lib/
+http
+2.14
+file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4/
+file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4/lib/
+http_parser
+2.12
+file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/
+file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib/
 lints
 2.12
 file:///M:/Projetos/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1/
